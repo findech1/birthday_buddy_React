@@ -8,17 +8,17 @@ export default [
   },
   {
     id: 2,
-    name: "Hester Hogan",
-    age: 32,
+    name: "Jean Marie",
+    age: 31,
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg"
   },
   {
     id: 3,
-    name: "Larry Little",
-    age: 36,
+    name: "Felix Findech",
+    age: 32,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg"
+      "https://cloudinary-marketing-res.cloudinary.com/image/upload/ar_0.5,c_fill,g_auto,w_433/q_auto/f_auto/graphic_wall_pose.jpg"
   },
   {
     id: 4,
